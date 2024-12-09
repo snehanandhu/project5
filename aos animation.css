@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.box{
+    flex-grow: 1;
+    min-height: 300px;
+    background-color: blue;
+    color: white;
+}

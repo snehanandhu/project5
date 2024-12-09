@@ -1,0 +1,466 @@
+/* .sec1{
+    background-color: rgb(22, 22, 22);
+    height: 100px;
+} */
+ .head1{
+   font-size: 20px;
+   color: white;
+   font-family: 'Times New Roman', Times, serif;
+ }
+ .checkout_container{
+   color: rgba(255, 255, 255, 0.808);
+ }
+ .nav_links{
+   color: rgba(255, 255, 255, 0.716);
+ }
+.logo1{
+   margin-top:100px ;
+}
+.cake{
+   margin-left: 50px;
+}
+ .sec2{ 
+    background-image: url(final.jpg);
+    background-size: cover;
+ }
+ .inbox2{
+  height: 500px;
+  /* min-height: auto; */
+
+ }
+ .inbox2 h1{
+    color: rgba(255, 255, 255, 0.97);
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+   
+ 
+ }
+ .inbox2 p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+  
+ }
+ .see{
+    font-size: 25px;
+    color: white;
+    background-color: rgba(196, 102, 25, 0.829);
+    padding: 10px;
+    text-decoration: none;
+    margin-bottom: 40px;
+  
+ }
+ .inbox2{
+    text-align: center;
+ }
+
+ .sec3{ 
+   background-color: rgb(0, 0, 0);
+   background-size: cover;
+}
+.inbox4{
+   min-height: auto;
+}
+.inbox4 h1{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 40px;
+   color: rgba(255, 255, 255, 0.829);
+   text-align: center;
+   margin-top: 50px;
+
+}
+.inbox4 h2{
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 40px;
+   color: white;
+   text-align: center;
+}
+.sec4{
+  height: 600px;
+   background-image: url(hotel.jpg);
+   background-size: cover;
+}
+.inbox6{
+   text-align: center;
+   height: 300px;
+   /* min-height: auto; */
+}
+.inbox6 h1{
+   margin-top: 50px;
+   color: rgba(255, 255, 255, 0.97);
+   text-align: center;
+   font-size: 120px;
+   font-family:'Times New Roman', Times, serif;
+}
+.inbox6 p{
+   color: rgb(255, 255, 255);
+   text-align: center;
+   font-size: 30px;
+   margin-bottom: 50px;
+   font-family:'Times New Roman', Times, serif ;
+}
+.find{
+   font-size: 25px;
+   color: white;
+   background-color: rgba(196, 102, 25, 0.829);
+   padding: 10px;
+   text-decoration: none;
+ 
+}
+
+ul{
+   display: flex;
+   list-style: none;
+   gap: 20px;
+
+}
+.topbox{
+   background-color: gray;
+   
+}
+.sec5{
+   background-image: url(frndzz.jpg);
+   background-color: rgba(255, 255, 255, 0.748);
+   background-size: cover;
+}
+.inbox7{
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   height: 600px;
+}
+.inbox7 h1{
+   color: rgba(246, 166, 100, 0.922);
+   text-align: center;
+   font-size: 100px;
+   font-family:'Times New Roman', Times, serif;
+}
+.inbox7 p{
+   color: rgb(255, 255, 255);
+   text-align: center;
+   font-size: 30px;
+   margin-bottom: 50px;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+ 
+.cateringinfo{
+   font-size: 25px;
+   color: white;
+   background-color: rgba(196, 102, 25, 0.618);
+   padding: 8px;
+   text-decoration: none;
+ 
+}
+.sec6{
+   background-color: rgb(19, 19, 19);
+   
+   /* background-image: url(res.rar); */
+   background-size: cover;  
+ }
+ 
+ .inbox9{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 200px;
+   flex-direction: column;
+   text-align: center;
+   min-height: auto;
+ }
+ .inbox9 h1{
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.937);
+    text-align: center;
+    margin-top: 90px;
+ 
+ }
+ 
+ .sec7{
+   background-image: url(hhhhh.webp);
+   background-size: cover;
+}
+.inbox11{
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   height:700px;
+}
+.inbox11 h1{
+   color: rgba(255, 255, 255, 0.978);
+   text-align: center;
+   font-size: 80px;
+   margin-top: 20px;
+   font-family: 'Times New Roman', Times, serif;
+   padding: 20px;
+  
+}
+.inbox11 p{
+   color: rgb(255, 255, 255);
+   text-align: center;
+   font-size: 30px;
+   margin-bottom: 50px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.shop{
+   font-size: 25px;
+   color: white;
+   background-color: rgba(196, 102, 25, 0.829);
+   padding: 10px;
+   text-decoration: none;
+ 
+}
+ 
+.sec8{
+   background-image: url(frnds.jpg);
+   background-size: cover;
+}
+.inbox12{
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   height:700px;
+
+}
+.inbox12 h1{
+   color: rgba(255, 255, 255, 0.922);
+   text-align: center;
+   font-size: 80px;
+   margin-top: 20px;
+   font-family: 'Times New Roman', Times, serif;
+   padding: 40px;
+  
+}
+.inbox12 p{
+   color: rgb(255, 255, 255);
+   text-align: center;
+   font-size: 30px;
+   margin-bottom: 50px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.out{
+   font-size: 25px;
+   color: white;
+   background-color: rgba(209, 108, 26, 0.885);
+   padding: 10px;
+   text-decoration: none;
+ 
+}
+.sec9{
+  
+    background-color: rgba(220, 79, 8, 0.875);
+    height: auto;
+    background-size: cover;
+ }
+ .inbox18{
+   font-size: 15px;
+
+ }
+ .inbox14 h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+ }
+ .sec10{
+   background-image: url(imggg2.jpg);
+   background-size: cover;
+   height:500px;
+  
+}
+.inbox16{
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+  
+}
+.inbox16 h1{
+   color: rgb(255, 255, 255);
+   text-align: center;
+   font-size: 80px;
+   margin-top: 20px;
+   font-family: 'Times New Roman', Times, serif;
+   padding: 40px;
+  
+}
+.inbox16 p{
+   color: rgb(255, 255, 255);
+   text-align: center;
+   font-size: 30px;
+   margin-bottom: 50px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.learn{
+   font-size: 25px;
+   color: white;
+   background-color: rgba(241, 120, 20, 0.885);
+   padding: 8px;
+   text-decoration: none; 
+}
+
+.line1{
+   width: 60%;
+   height: 2px;
+   background-color: white;
+   align-self: flex-end;
+}
+.line2{
+   width: 100%;
+   height: 2px;
+   background-color: white;
+}
+
+.inbox13{
+   height:300px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   gap: 15px;
+}
+
+.line3{
+   width: 60%;
+   height: 2px;
+   background-color:white;
+   align-self: flex-start;
+}
+.line4{
+   width: 100%;
+   height: 2px;
+   background-color:white;
+}
+.inbox15{
+   height:300px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   gap: 15px;
+}
+
+.line1{
+   width: 60%;
+   height: 2px;
+   background-color: white;
+   align-self: flex-end;
+}
+.line2{
+   width: 100%;
+   height: 2px;
+   background-color: white;
+}
+
+.inbox3{
+   height:300px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   gap: 15px;
+}
+
+.line3{
+   width: 60%;
+   height: 2px;
+   background-color: white;
+   align-self: flex-start;
+}
+.line4{
+   width: 100%;
+   height: 2px;
+   background-color: white;
+}
+
+.inbox5{
+   height:300px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   gap: 15px;
+}
+.inbox8,.inbox10{
+      height:300px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 15px;
+}
+.inbox17 h1,.inbox18 h1,.inbox19 h1,.inbox20 h1{
+   font-size: 25px;
+   color: white;
+   font-weight: bold;
+   text-align: center;
+   margin-top: 20px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.inbox18{
+   display: flex;
+   flex-direction: column;
+}
+.sec11{
+   background-color: rgb(28, 27, 27);
+}
+ul.list{
+   display: block;
+ }
+ .bi-chevron-right{
+ color: orange;
+ padding: 5px;
+ }
+ .bi-cart4{
+   margin:10px;
+ }
+ .inbox20 h4{
+   color: white;
+   text-align: center;
+   font-size: 10px;
+ }
+ .inbox18 a,.inbox19 a{
+   text-decoration: none;
+ }
+ .learn1{
+   font-size: 20px;
+   color: white;
+   background-color: rgba(241, 120, 20, 0.885);
+   padding: 3px;
+   text-decoration: none; 
+   margin-top: 20px;
+}
+.inbox20{
+   margin-top: 20px;
+   text-align: center;
+}
+@media (max-width:1200px) {
+   .cake{
+      margin-left: 0;
+   }
+   
+}
+@media (max-width:768px) {
+   .inbox2{
+      min-height: 600px;
+   }
+   .inbox17,.inbox18,.inbox19,.inbox20{
+      text-align: center;
+   }
+   .inbox11 h1{
+      font-size: 0px;
+   }
+   .inbox7 h1{
+      font-size: 50px;
+   }
+   .inbox16 h1{
+      font-size: 50px;
+   }
+ 
+}
